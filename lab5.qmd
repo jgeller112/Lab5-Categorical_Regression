@@ -224,7 +224,7 @@ library(tidyverse)
 
 ```
 
-> What is the Bonferroni corrected *p*-value?
+> What is the value of the Bonferroni corrected *p*-value for these comparisons?
 
 ```{r}
 #
